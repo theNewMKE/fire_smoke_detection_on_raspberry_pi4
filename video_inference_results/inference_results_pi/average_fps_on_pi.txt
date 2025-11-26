@@ -1,0 +1,8 @@
+ncnn_fp32 -> 1.89
+ncnn_fp16 -> 1.91
+onnx_fp32 -> 1.65
+onnx_fp16 -> 1.65
+onnx_int8 -> 1.44
+EI_YOLO_nano (int8) -> 7.69
+EI_YOLO_pico (int8) -> 20.83
+EI_YOLO_FOMO2 (int8) -> 500
