@@ -1,4 +1,4 @@
-path: C:/Users/Oliver/OneDrive - Marquette University/Documents/Fire_detection/D-Fire
+path: absolute_path/D-Fire
 
 train: train/images
 val: test/images
